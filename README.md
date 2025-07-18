@@ -10,6 +10,10 @@ This ChatGPT Clone is a conversational AI web application that mimics the functi
 - Fast and responsive interactions  
 - API-integrated for real-time AI responses
 
+- Install Dependencies
+
+- npm install
+
 - Create a .env file and add your API key:
 
 - actually its using Google api key
