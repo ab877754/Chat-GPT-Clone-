@@ -12,5 +12,5 @@ This ChatGPT Clone is a conversational AI web application that mimics the functi
 
 - Create a .env file and add your API key:
 
-- actually its using Google api key
-- GOOGLE_GENERATIVE_AI_API_KEY="your_api_key_here"
+  actually its using Google api key
+  GOOGLE_GENERATIVE_AI_API_KEY="your_api_key_here"
